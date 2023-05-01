@@ -12,8 +12,9 @@ O temporizador começa a contar quando o botão é pressionado pela primeira vez
 
 * Arduino Uno
 * Breadboard
-* Display LCD
+* Display LCD 16x2
 * Botão
+* Jumpers
 
 ## Como montar
 
